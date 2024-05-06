@@ -1,4 +1,3 @@
-# RNG
 # Random Number Generation
 
 c2077006 - Dylan Salway
