@@ -1,5 +1,5 @@
 # RNG
-Random Number Generation
+# Random Number Generation
 
 c2077006 - Dylan Salway
 
